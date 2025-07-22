@@ -74,7 +74,8 @@ Isso reforça o quanto fatores **macroeconômicos** impactam preços, e que mode
 
 Clique no botão abaixo para abrir e executar o projeto completo:
 
-[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carrilho91/ebac-previsaodoprecodagasolina/blob/main/gasolina_previsao.ipynb)
+[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carrilho91/ebac-previsaodoprecodagasolina/blob/main/precogasolina.ipynb)
+
 
 ---
 
